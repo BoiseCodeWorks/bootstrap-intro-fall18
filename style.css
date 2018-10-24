@@ -1,0 +1,16 @@
+.red{
+  background-color: red;
+}
+.theme-color{
+  background-color: rgb(18, 160, 204);
+}
+.green{
+  background-color: green;
+}
+.orange{
+  background-color: orange;
+}
+
+.box{
+  height: 100px;
+}
